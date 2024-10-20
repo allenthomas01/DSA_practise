@@ -1,4 +1,4 @@
-public class reverse_bits {
+public class leetcode190{
     public int reverseBits(int n) {
      int res=0;
      int bit;
